@@ -1,52 +1,45 @@
-# Towel Sales Dashboard & Growth Strategy
+🧣 Towel Sales Dashboard & Growth Strategy
 
-**End-to-End Data Analysis Project**  
-Interactive Excel dashboard built from real Tally ERP sales data of a towel manufacturing company.
+**Interactive Excel Dashboard + FY 2026-27 Action Plan**  
+Built using real Tally ERP sales data from a towel manufacturing company.
 
-![Dashboard Preview](dashboard.JPG)
+![Dashboard](https://github.com/maheshyangundi5-DA/towel-sales-dashboard/blob/main/dashboard.JPG)
 
-## 📊 Project Highlights
+## 📊 Project Overview
 
 - **Total Sales (2023-2026)**: ₹1.82 Crores
 - **Total Invoices**: 612
 - **Average Order Value**: ₹29,770
-- Built fully interactive dashboard with slicers
-- Extracted 25 key insights
-- Created FY 2026-27 growth plan targeting **₹50 Lakhs**
+- **Time Period**: April 2023 – March 2026
 
-## 🛠️ Tools Used
+## 🎯 Key Deliverables
 
-- Excel (Advanced PivotTables, XLOOKUP, Power Query, Slicers)
+- Fully **Interactive Excel Dashboard** with slicers
+- 25 Key Business Insights
+- Complete **FY 2026-27 Growth Strategy** to achieve **₹50 Lakhs**
+- Professional Storytelling Presentation
+
+## 🛠️ Tools & Skills Demonstrated
+
+- Advanced Excel (PivotTables, XLOOKUP, Power Query, Slicers)
 - Data Cleaning & Transformation
-- Storytelling & Presentation
+- Data Visualization & Dashboard Design
+- Business Insights & Strategic Planning
 
-## 📁 Project Structure
+## 📁 Files
 
 - `Sales-dashboard-2023-2026.xlsb` → Main Interactive Dashboard
-- `Towel_Sales_Presentation.pptx` → Insights + Growth Strategy
-- `/data/` → Raw CSV files from Tally
-- `README.md`
-
-## 🎯 Key Insights & Action Plan
-
-- Identified top agents and customers driving revenue
-- Created 10 actionable moves to achieve ₹50 Lakhs in FY 2026-27
-- Quarterly roadmap with clear targets
+- `Towel_Sales_Presentation.pptx` → Insights + Action Plan
+- Raw data files (customers.csv, sales.csv, sales_agents.csv)
 
 ## 🚀 How to Use
 
-1. Download the `.xlsb` file
+1. Download `Sales-dashboard-2023-2026.xlsb`
 2. Open in Microsoft Excel
-3. Use the slicers (Month, Agent, Customer) to explore data dynamically
-
-## 📈 Future Scope
-
-- Migration to Power BI
-- Predictive forecasting
-- Product-level analysis
+3. Use the slicers on the right to explore data dynamically
 
 ---
 
-**Built as part of 90-Day Data Analyst Learning Journey**
+**Part of my 90-Day Data Analyst Learning Journey**
 
-Made with ❤️ for learning and portfolio
+Made with ❤️ | Open to feedback and collaboration!
